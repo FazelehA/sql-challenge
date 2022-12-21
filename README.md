@@ -4,7 +4,7 @@ This challenge looks at employee data for a fictional company (Pewlett Hackard) 
 # Data Modeling
 The CSV files were inspected and an Entity Relationship Diagram of the tables was sketched. To create the sketch, the QuickDBD tool was used. The ERD can be found in the main repository as a png file. 
 
-https://github.com/FazelehA/sql-challenge/blob/main/ERD.png
+![alt text](https://github.com/FazelehA/sql-challenge/blob/main/ERD.png)
 
 # Data Engineering
 Using the provided information table schema for each of the six CSV files was created and each CSV file was then imported in to its corresponding SQL table. This can be found in the table_schema file in the EmployeeSQL folder. 
